@@ -13,11 +13,11 @@ JavaScript
   4. CDN vs local
   5. Uso de LET, VAR y CONST
   6. Longitud de arreglos
-  7.	Codificacion
-    a. “” o ‘’ (que es mejor)
-    b. ; (¿punto y coma??)
-    c. { } por línea o debajo?
-    e. == vs ===
+  7.	Codificacion  
+    a. “” o ‘’ (que es mejor)  
+    b. ; (¿punto y coma??)  
+    c. { } por línea o debajo?  
+    e. == vs ===  
   8. try cacth no sirve
   9. Clases por función
   10. Notación
