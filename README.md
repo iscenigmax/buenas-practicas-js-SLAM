@@ -1,6 +1,7 @@
 Explicacion de buenas practicas en javascript y jquery en proyectos SLAM
 
 JQuery NO es JavaScript & JavaScript NO es JQuery
+
   a.	JavaScript es el lenguaje
   b.	JQuery es el librería
     
