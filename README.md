@@ -5,6 +5,7 @@ JQuery NO es JavaScript & JavaScript NO es JQuery
   b.	JQuery es el librería
     
 JavaScript
+
   1. Todo js se debe declarar al final del body
   2. Async (carga librerías de terceros, solo si no tienes dependencias)
   3. Debe ser un archivo individual y versionado si cambia
@@ -21,6 +22,7 @@ JavaScript
   10. Notación
 
 JQuery 
+
   11. Si existe en JQuery no uses VANILA
     a. Usa siempre la última versión (directamente de la página)
     b. Variables de objetos JQuery
@@ -29,5 +31,6 @@ JQuery
     f. for vs each
 
 Generales
+
   a. Concatenación de archivos
   b. Compresión de archivos
