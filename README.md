@@ -1,12 +1,10 @@
 Explicacion de buenas practicas en javascript y jquery en proyectos SLAM
 
-JQuery NO es JavaScript & JavaScript NO es JQuery
-
+JQuery NO es JavaScript & JavaScript NO es JQuery  
   a.	JavaScript es el lenguaje  
   b.	JQuery es el librería
     
-JavaScript
-
+JavaScript  
   1. Todo js se debe declarar al final del body
   2. Async (carga librerías de terceros, solo si no tienes dependencias)
   3. Debe ser un archivo individual y versionado si cambia
@@ -22,16 +20,14 @@ JavaScript
   9. Clases por función
   10. Notación
 
-JQuery 
+JQuery  
+  11. Si existe en JQuery no uses VANILA  
+    a. Usa siempre la última versión (directamente de la página)  
+    b. Variables de objetos JQuery  
+    c. Búsqueda de selectores de clase o #  
+    d. Data elements  
+    f. for vs each  
 
-  11. Si existe en JQuery no uses VANILA
-    a. Usa siempre la última versión (directamente de la página)
-    b. Variables de objetos JQuery
-    c. Búsqueda de selectores de clase o #
-    d. Data elements
-    f. for vs each
-
-Generales
-
+Generales  
   a. Concatenación de archivos
   b. Compresión de archivos
