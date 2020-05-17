@@ -20,7 +20,7 @@ JavaScript
   9. Clases por función
   10. Notación
 
-JQuery
+JQuery 
   11. Si existe en JQuery no uses VANILA
     a. Usa siempre la última versión (directamente de la página)
     b. Variables de objetos JQuery
